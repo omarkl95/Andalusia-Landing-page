@@ -1,0 +1,31 @@
+.statics {
+  background-image: url(../../assets/img/Layer8.jpg);
+  color: white;
+  margin-top: 5px;
+}
+table {
+  width: 100%;
+}
+
+tr.mat-footer-row {
+  font-weight: bold;
+}
+
+.pricing-heading{
+  padding-bottom: 30px;
+  padding: 35px;
+color: white;
+text-transform: uppercase;
+}
+
+.pricing-heading h2{
+  font-size: 32px;
+}
+
+.pricing-heading h3{
+  font-size: 22px;
+}
+
+.pricing-section{
+  text-align: center;
+}
